@@ -2,6 +2,7 @@
 Minesweeper made entirely from scratch in Processing 4.3.3
 - STILL W.I.P 
 - Only generates grid with bombs and numbers currently
+- Clicking empty tile opens all empty adjacent tiles
 
 ### Controls
 - R : Change bomb placement
